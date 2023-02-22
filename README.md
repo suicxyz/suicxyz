@@ -2,8 +2,8 @@
 import Developer from 'suicxyz';
 
 class AboutMe extends Developer {
-  name: string     = "Vinicius Trindade";
-  area: string    = "Back-end";
+  name: string  = "Vinicius Trindade";
+  area: string  = "Back-end";
   work: string  = "At home";
   local: string = "São Paulo, Brasil";
 }
