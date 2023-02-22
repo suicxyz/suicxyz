@@ -1,16 +1,24 @@
-### Hi there 👋
+```typescript
+import Developer from 'suicxyz';
 
-<!--
-**suicxyz/suicxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class AboutMe extends Developer {
+  name: string     = "Vinicius Trindade";
+  area: string    = "Back-end";
+  work: string  = "At home";
+  local: string = "São Paulo, Brasil";
+}
 
-Here are some ideas to get you started:
+class Skills extends Developer {
+  languages: Array<string>  = ["JavaScript/TypeSript", "Python", "AutoHotKey", "PHP"];
+  libraries: Array<string>  = ["React.js"];
+  frameworks: Array<string> = ["Bootstrap", "Node.js", "ExpressJS"];
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:suicxyz@proton.me" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/trindade.v1"/></a>
+</p>  
