@@ -26,6 +26,6 @@ class Skills extends Developer {
   </a>
   
   <a href="#" alt="NPM">
-    <img src="square&labelColor=cc0001&logo=npm&logoColor=white&link=https://www.npmjs.com/~suicxyz"/>
+    <img src="https://img.shields.io/badge/-npm-cc0001?style=flat-square&labelColor=cc0001&logo=npm&logoColor=white&link=https://www.npmjs.com/~suicxyz"/>
   </a>
 </p>  
